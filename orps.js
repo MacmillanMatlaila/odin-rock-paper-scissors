@@ -5,11 +5,10 @@ function getComputerChoice(rock, paper, scissors) {
     const options = stringRandom[Math.floor(Math.random()*stringRandom.length)];
 
     return options;
+}
 
-    }
 
 
-    
 
 
 
